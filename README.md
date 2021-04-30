@@ -12,24 +12,6 @@
   </a>
 </p>
 
-
-<p align="center">
-  Confira eventos que eu participei.
-</p>
-
-<details>
-  <summary>Events</summary>
-  
-  | Events | Place | Role |Date
-  | :---: | :---: | :---: | :---:|
-  | High Availability Cloud Bootcamp | Online - Cloud Treinamentos | Participant | 2020-10
-  | Technovação | Centro de Eventos - Cascavel/PR | Participant | 2019-05
-  | Global Game JAM | UNIPAR - Toledo/PR | Participant/Volunteer | 2016-01
-  | Conexão Empresarial | Teatro Municipal - Toledo/PR | Participant | 2014-09
-
-    
-</details>
-
 <!--
 **mayconantunes/mayconantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
